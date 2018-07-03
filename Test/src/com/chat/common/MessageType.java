@@ -1,4 +1,4 @@
-package com.hm.common;
+package com.chat.common;
 
 public interface MessageType 
 {

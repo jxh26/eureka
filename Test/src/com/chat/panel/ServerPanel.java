@@ -1,4 +1,4 @@
-package com.hm.panel;
+package com.chat.panel;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -7,7 +7,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-import com.hm.server.Server;
+import com.chat.server.Server;
 
 public class ServerPanel extends JFrame implements ActionListener {
 	
